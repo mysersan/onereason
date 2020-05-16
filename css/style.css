@@ -13,7 +13,9 @@
   font-size: inherit;
 }
 
-
+nav .logo {
+  margin-left: 50px;
+}
 
 .slider .btn {
   margin-top: 20px;
