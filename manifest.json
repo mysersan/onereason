@@ -1,0 +1,16 @@
+{
+    "name": "One Reason Band PWA",
+    "short_name": "One Reason PWA",
+    "description": "Aplikasi PWA ONE REASON Band",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#4c4c4c",
+    "theme_color": "#4c4c4c",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
