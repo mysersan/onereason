@@ -1,4 +1,4 @@
-const CACHE_NAME = 'firstpwa-v30';
+const CACHE_NAME = 'firstpwa-v31';
 var urlsToCache = [
 	'/',
 	'/index.html',
