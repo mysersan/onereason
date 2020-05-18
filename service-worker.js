@@ -1,19 +1,26 @@
-const CACHE_NAME = 'firstpwa-v38';
+const CACHE_NAME = 'firstpwa-v6';
 var urlsToCache = [
 	'/',
 	'/index.html',
+	'/manifest.json',
 	'/css/materialize.min.css',
 	'/css/style.css',
 	'/js/materialize.min.js',
-	'/js/init.js',
+	'/js/script.js',
 	'/img/bl00.jpg',
 	'/img/bl1.jpg',
 	'/img/bl2.jpg',
 	'/img/bl3.jpg',
 	'/img/hg.jpg',
-	'/img/sld1.jpeg',
-	'/img/sld2.jpeg',
-	'/img/sld3.jpeg'
+	'/icon.png',
+	'/images/icons/icon-72x72.png',
+	'/images/icons/icon-96x96.png',
+	'/images/icons/icon-128x128.png',
+	'/images/icons/icon-144x144.png',
+	'/images/icons/icon-152x152.png',
+	'/images/icons/icon-192x192.png',
+	'/images/icons/icon-384x384.png',
+	'/images/icons/icon-512x512.png'
 ];
 
 self.addEventListener('install', function(event){
