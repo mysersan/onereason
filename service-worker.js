@@ -1,8 +1,12 @@
-const CACHE_NAME = 'firstpwa-v6';
+const CACHE_NAME = 'firstpwa-v7';
 var urlsToCache = [
 	'/',
-	'/index.php',
 	'/index.html',
+	'/nav.html',
+	'/pages/home.html',
+	'/pages/contact.html',
+	'/pages/member.html',
+	'/pages/what.html',
 	'/manifest.json',
 	'/css/materialize.min.css',
 	'/css/style.css',
