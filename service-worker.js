@@ -1,6 +1,7 @@
 const CACHE_NAME = 'firstpwa-v6';
 var urlsToCache = [
 	'/',
+	'/index.php',
 	'/index.html',
 	'/manifest.json',
 	'/css/materialize.min.css',
